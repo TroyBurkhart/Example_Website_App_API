@@ -4,7 +4,7 @@ export const ActionTypes = {
   NOTES: 'NOTES',
 };
 
-const ROOT_URL = (window.location.hostname === 'localhost') ? 'http://localhost:9090/api' : 'https://noteswebserver.onrender.com/api';
+const ROOT_URL = (window.location.hostname === 'localhost') ? 'http://localhost:9090/api' : 'https://exampleapi-de9z.onrender.com/api';
 
 export function fetchNotes() {
   return async (dispatch) => {
