@@ -1,0 +1,50 @@
+$fontcolor:  rgb(10%, 10%, 10%);
+$backgroundcolor: rgb(98%, 98%, 98%);
+
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: $fontcolor;
+  background-color: $backgroundcolor;
+  margin: 50px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  min-width: 400px;
+}
+
+.submit {
+  margin-top: 17px;
+  min-width: 20%;
+  max-width: 20%;
+}
+
+.motionDiv div {
+  background: lightblue;
+  border-radius: 30px;
+  width: 125px;
+  height: 50px;
+  text-align: center;
+  position: relative;
+  white-space: nowrap;
+  margin-bottom: 20px;
+}
+
+.button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: 0;
+  transform: translate(-50%, -50%);
+}
+
+.rightButton {
+margin-left: 10px;
+}
+
+#motion {
+  display: flex;
+}
