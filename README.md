@@ -24,7 +24,7 @@
 
 - [https://examplewebsite.onrender.com](https://examplewebsite.onrender.com)
 - ***Disclaimer: This site is not moderated. Anyone can post anything they want on this site. Please be considerate***
-- ***This project uses the free version of Render and MongoDB so there may be a delay in loading if you attempt to connect to the live site.***
+- ***This project uses the free version of Render and MongoDB so there may be a delay in loading if you attempt to connect to the live site.Please allow about 30 seconds before attempting to use the site***
 ***The site also works better in Chrome than Safari***
 
 
