@@ -25,7 +25,7 @@
 - [https://examplewebsite.onrender.com](https://examplewebsite.onrender.com)
 - ***Disclaimer: This site is not moderated. Anyone can post anything they want on this site. Please be considerate***
 - ***This project uses the free version of Render and MongoDB so there may be a delay in loading if you attempt to connect to the live site. Please allow about 30 seconds to pass when the site first boots up***
-***The site also works better in Chrome than Safari***
+- ***The site also works better in Chrome than Safari***
 
 
 ## Running Locally
@@ -50,6 +50,7 @@ Then, for the web app, from terminal, copy the localhost link and paste into Goo
 - The expo version for React-Native is slightly out of date and could be updated along with some of the components like Swipeable which is being removed from React-Native
 - The app also contains some unstable components making it inefficient but otherwise still effective
 - UI Styling
+- Resizing for different sized windows
 
 ## Screenshots
 ![Screen Shot 2023-07-06 at 9 36 26 PM](https://github.com/TroyBurkhart/Resume_Website_Code/assets/77162040/cef83a2f-8430-47e5-8295-3dc30e66599d)
