@@ -46,6 +46,8 @@ i
 ```
 Then, for the web app, from terminal, copy the localhost link and paste into Google Chrome; i.e. => http://localhost:5173/
 
+If running the app, it uses the live server API as well so it may take a minute to load just like the live link
+
 ## Improvements
 - The expo version for React-Native is slightly out of date and could be updated along with some of the components like Swipeable which is being removed from React-Native
 - The app also contains some unstable components making it inefficient but otherwise still effective
