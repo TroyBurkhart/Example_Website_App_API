@@ -55,8 +55,8 @@ If running the app, it uses the live server API as well so it may take a minute 
 - Resizing for different sized windows
 
 ## Screenshots
-![Screen Shot 2023-07-06 at 9 36 26 PM](https://github.com/TroyBurkhart/Resume_Website_Code/assets/77162040/cef83a2f-8430-47e5-8295-3dc30e66599d)
-![Screen Shot 2023-07-06 at 10 20 07 PM](https://github.com/TroyBurkhart/Example_Website_App_API/assets/77162040/01c531a7-5ef2-4199-a11e-9e2b06fc4101)
-![Screen Shot 2023-07-06 at 10 18 37 PM](https://github.com/TroyBurkhart/Resume_Website_Code/assets/77162040/02462192-352e-4b12-8acf-4d3a5770779a)
-![Screen Shot 2023-07-06 at 10 19 01 PM](https://github.com/TroyBurkhart/Resume_Website_Code/assets/77162040/91edd99c-ca95-4063-8d90-abbd8e78edad)
-![Screen Shot 2023-07-06 at 10 19 24 PM](https://github.com/TroyBurkhart/Resume_Website_Code/assets/77162040/48759f33-3851-44f8-8385-568658dff270)
+![Screen Shot 2023-07-12 at 9 54 13 PM](https://github.com/TroyBurkhart/Example_Website_App_API/assets/77162040/dfc8fd1d-1f40-47c7-8b96-c6cb57f58c1f)
+![Screen Shot 2023-07-12 at 9 57 33 PM](https://github.com/TroyBurkhart/Example_Website_App_API/assets/77162040/74bfdca8-8cb7-4359-aabb-16cfe9b43006)
+![Screen Shot 2023-07-12 at 9 58 40 PM](https://github.com/TroyBurkhart/Example_Website_App_API/assets/77162040/8403ec8b-06c0-43d9-80c1-f9ab582c4e83)
+![Screen Shot 2023-07-12 at 9 58 59 PM](https://github.com/TroyBurkhart/Example_Website_App_API/assets/77162040/d3887e37-8c33-4f98-816a-d38cb609d324)
+![Screen Shot 2023-07-12 at 9 59 06 PM](https://github.com/TroyBurkhart/Example_Website_App_API/assets/77162040/f8122a16-ec22-49a1-8a1a-d0e4e1f2e179)
